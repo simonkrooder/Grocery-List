@@ -1,3 +1,6 @@
 This file contains the grocery list.
 1. Milk
 2. Bread
+3. Beer
+4. Chocolate
+5. Crisps
