@@ -4,4 +4,5 @@ This file contains the grocery list.
 3. Beer
 4. Chocolate
 5. Crisps
-6. Eggs
+6. Cheese
+
